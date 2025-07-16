@@ -1,4 +1,4 @@
-# Challenge State of Data 2024-2025 🚀
+# Trilha Challenge State of Data 2024-2025 🚀
 
 Bem-vindos e bem-vindas padawans de todas as partes do BRÉZIU!! Este repositório contém as aulas e materiais da **Trilha Challenge State of Data 2024-2025** da DataHackers, um projeto educacional focado em análise de dados e ciência de dados usando Python e Pandas, com o objetivo de deixá-los preparados para participarem do Challenge State of Data e concorrer a prêmios muito maneiros!
 
