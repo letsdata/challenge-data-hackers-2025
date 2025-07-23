@@ -1,0 +1,14 @@
+pandas
+plotly
+notebook
+streamlit
+scikit-learn
+duckdb
+duckdb-engine
+langchain
+langchain-community
+langchain-experimental
+langchain-openai
+sqlalchemy
+openai
+python-dotenv

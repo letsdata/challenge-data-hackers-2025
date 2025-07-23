@@ -1,0 +1,58 @@
+﻿"Tabela 5436 - Rendimento médio mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente e efetivamente recebidos no trabalho principal e em todos os trabalhos, por sexo"
+"Variável - Rendimento médio mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente recebido no trabalho principal (Reais)"
+"Brasil e Unidade da Federação";"Trimestre x Sexo"
+"Brasil e Unidade da Federação";"4º trimestre 2024"
+"Brasil e Unidade da Federação";"Total";"Homens";"Mulheres"
+"Brasil";"3270";"3601";"2830"
+"Rondônia";"3050";"3203";"2794"
+"Acre";"2609";"2733";"2413"
+"Amazonas";"2400";"2476";"2276"
+"Roraima";"2915";"3121";"2623"
+"Pará";"2311";"2458";"2072"
+"Amapá";"2788";"2888";"2640"
+"Tocantins";"2844";"3098";"2483"
+"Maranhão";"2050";"2106";"1965"
+"Piauí";"2244";"2379";"2049"
+"Ceará";"2134";"2228";"2003"
+"Rio Grande do Norte";"2538";"2714";"2271"
+"Paraíba";"2335";"2420";"2206"
+"Pernambuco";"2452";"2640";"2193"
+"Alagoas";"2281";"2476";"1997"
+"Sergipe";"2474";"2627";"2252"
+"Bahia";"2110";"2244";"1929"
+"Minas Gerais";"2921";"3272";"2454"
+"Espírito Santo";"3260";"3563";"2851"
+"Rio de Janeiro";"3709";"4121";"3198"
+"São Paulo";"4057";"4570";"3421"
+"Paraná";"3653";"4110";"3049"
+"Santa Catarina";"3733";"4157";"3193"
+"Rio Grande do Sul";"3634";"4056";"3101"
+"Mato Grosso do Sul";"3461";"3790";"3043"
+"Mato Grosso";"3534";"4006";"2903"
+"Goiás";"3318";"3761";"2716"
+"Distrito Federal";"5317";"6140";"4288"
+"Fonte: IBGE - Pesquisa Nacional por Amostra de Domicílios Contínua trimestral"
+
+"Notas"
+"A partir do 4º trimestre de 2015, em acordo com as recomendações da 19ª Conferência Internacional de Estatísticos do Trabalho - CIET, da OIT, pessoas em licença remunerada, independentemente do tempo de afastamento, passaram a ser classificadas como ""ocupadas"" e seus rendimentos do trabalho foram coletados normalmente. Anteriormente, as pessoas em licença remunerada na semana de referência da pesquisa e que estavam afastadas por período inferior a 4 meses eram classificadas como ""ocupadas"". Caso esse afastamento fosse igual ou superior a 4 meses, essas pessoas eram definidas como ""fora da força de trabalho"" e, portanto, não se investigava o rendimento do trabalho.
+Além disso, a partir do 4º trimestre de 2015, também passaram a ser classificadas como ""ocupadas"" as pessoas que ajudaram, sem receber remuneração, no trabalho remunerado de parente, adicionalmente àquelas que ajudaram no trabalho remunerado de outro morador do mesmo domicílio. Anteriormente, eram consideradas ""ocupadas"" apenas as pessoas que ajudaram, sem receber remuneração, no trabalho remunerado de outro morador do mesmo domicílio.
+O valor efetivo se refere ao valor recebido no mês anterior ao da coleta.
+Para cálculo do valor real é utilizado o deflator da média do último trimestre de coleta divulgado, conforme a Nota Técnica (maio/2015 - atualizada em 16/10/2018).
+A partir de 30 de novembro de 2021, essas estimativas passaram a ser divulgadas com base no novo método de ponderação da pesquisa, conforme a Nota Técnica 03/2021. Consequentemente, a série histórica deste indicador foi atualizada."
+""
+"Legenda"
+"Símbolo";"Significado"
+"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0";"Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X";"Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..";"Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...";"Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
